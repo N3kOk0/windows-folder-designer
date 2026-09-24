@@ -1,4 +1,4 @@
-# Windows Folder Designer (Alpha)
+# Windows Folder Designer BUT Windows 10 (Alpha)
 
 Create custom Windows folder icons that can be exported in multiple formats and sizes (ICO files or PNGs).
 
